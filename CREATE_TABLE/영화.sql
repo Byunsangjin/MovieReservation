@@ -1,0 +1,16 @@
+INSERT INTO movie(title, genre) VALUES("신과함께", "드라마");
+INSERT INTO movie(title, genre) VALUES("스타워즈 라스트 제다이", "SF");
+INSERT INTO movie(title, genre) VALUES("이터널 선샤인", "SF");
+INSERT INTO movie(title, genre) VALUES("바이스 범죄도시", "SF");
+INSERT INTO movie(title, genre) VALUES("강철비", "액션");
+INSERT INTO movie(title, genre) VALUES("어쌔신 더 비기닝", "액션");
+INSERT INTO movie(title, genre) VALUES("저스티스 리그", "액션");
+INSERT INTO movie(title, genre) VALUES("부라더", "코미디");
+INSERT INTO movie(title, genre) VALUES("로드 투 로마", "코미디");
+INSERT INTO movie(title, genre) VALUES("러브 액츄얼리", "코미디");
+INSERT INTO movie(title, genre) VALUES("사랑과 영혼", "멜로");
+INSERT INTO movie(title, genre) VALUES("벤자민 버튼의 시간은 거꾸로 간다", "멜로");
+INSERT INTO movie(title, genre) VALUES("라라랜드", "멜로");
+INSERT INTO movie(title, genre) VALUES("극장판 포켓몬스터 너로 정했다!", "애니");
+INSERT INTO movie(title, genre) VALUES("뽀로로 극장판 공룡섬 대모험", "애니");
+INSERT INTO movie(title, genre) VALUES("몬스터 패밀리", "애니");

@@ -1,0 +1,12 @@
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("팝콘", "고소팝콘M", 5000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("팝콘", "고소팝콘L", 6000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("팝콘", "달콤팝콘M", 5000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("팝콘", "달콤팝콘L", 6000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "콜라M", 2000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "콜라L", 2500);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "사이다M", 2000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "사이다L", 2500);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "자몽에이드", 4000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "자몽에이드", 4500);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "오렌지에이드", 4000);
+INSERT INTO snack(snack_type, snack_name, snack_price) VALUES("음료", "오렌지에이드", 4500);
